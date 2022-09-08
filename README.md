@@ -1,8 +1,6 @@
 # asdfasdfasdfasdfdcvxcvxdbv
 
 
-## Bla bla bla
+## Website Contents
 
-Lorem Ipsum
-
-x2
+1. index.html
